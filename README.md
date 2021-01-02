@@ -6,3 +6,6 @@ A set of tools (written in Python) to help with encrypting stuff. They're writte
 - Caesar
 - Morse Code
 - More to come
+
+## TO DO
+- Place all encryption functions under one class. It will be nicer that way.
